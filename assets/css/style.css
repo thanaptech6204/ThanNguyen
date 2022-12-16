@@ -1282,7 +1282,7 @@ section .container {
 
 @media (min-width: 360px) and (max-width: 600px) {
   .carousel-item{
-    width: 96%;
+    width: 101%;
   }
   .member-reviews-box .carousel-inner .carousel-item p {
     font-size: 14px;
