@@ -1250,11 +1250,11 @@ section .container {
   padding: 10px 0px;
 }
 
-/* .Member-Card h2 {
+.Member-Card h2 {
   font-family: cursive;
   color: #a88254;
   padding-top: 20px;
-} */
+}
 
 .member-reviews-box {
   padding: 20px 0px;
@@ -1267,13 +1267,6 @@ section .container {
   height: 135px;
 }
 
-.member-reviews-box .carousel-control-prev {
-  left: -100px;
-}
-
-.member-reviews-box .carousel-control-next {
-  right: -100px;
-}
 
 .member-reviews-box .carousel-indicators {
   top: 320px;
@@ -1284,25 +1277,27 @@ section .container {
   font-size: 20px;
   font-family: cursive;
   font-weight: 120;
+  margin-left: -96px;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 360px) and (max-width: 600px) {
+  .carousel-item{
+    width: 96%;
+  }
   .member-reviews-box .carousel-inner .carousel-item p {
     font-size: 14px;
+    padding-left: -150px;
   }
-
-  .member-reviews-box .carousel-control-prev {
-    left: -6px;
+ 
+  
+  .member-reviews-box .carousel-inner .carousel-item .img-box  .name {
+       margin-left: -65px;
   }
-
-  .member-reviews-box .carousel-control-next {
-    right: -6px;
-  }
-
   .member-reviews-box .carousel-indicators {
     top: 400px;
   }
 }
+
 
 .member-reviews-box .carousel-control-prev-icon,
 .member-reviews-box .carousel-control-next-icon {
@@ -1312,4 +1307,5 @@ section .container {
   background-color: #ddad6f;
   background-size: 100%, 100%;
   border-radius: 20%;
+  padding-left: 150px;
 }
