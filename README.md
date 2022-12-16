@@ -11,7 +11,7 @@ First of all, I would like to thank you for taking the time to look at the portf
 
 <ul>
  <li><i class="bi bi-chevron-right"></i> <strong>
-              My product QR</strong> <span></span></li> <br>
+              My product QR</strong> <span></span></li>
 </ul>
    <img src="./assets/img/red/qr23.png" with="100px" height="150px">
 
