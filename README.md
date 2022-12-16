@@ -16,3 +16,11 @@ First of all, I would like to thank you for taking the time to look at the portf
    <img src="./assets/img/red/qr23.png" with="100px" height="150px">
 
    When you Click it it will show my web FOOD
+
+   <ul>
+ <li><i class="bi bi-chevron-right"></i> <strong style="margin-left=50%">
+              My product QR</strong> <span></span></li>
+</ul>
+ <img src="./assets/img/red/qr24.png" with="100px" height="150px">
+
+  When you Click it it will show my web portfolio ThanNguyen
