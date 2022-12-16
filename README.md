@@ -10,6 +10,6 @@ First of all, I would like to thank you for taking the time to look at the portf
  web platform We will try to continue to learn and improve ourselves even more in the future.
 
 QR
-   <img src="./assets/img/red/qr23.png" with="50px">
+   <img src="./assets/img/red/qr23.png" with="30px" height="50px">
 
    When you Click it it will show my web
