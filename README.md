@@ -9,7 +9,8 @@ Click the plus sign to know more about our products
 First of all, I would like to thank you for taking the time to look at the portfolio of my team that worked on this amazing Electronic Project. We had a great experience with eProject this time. Besides some of the mistakes we made in the project, we hope to have more opportunities to expand our knowledge in the world of web development and help the company grow to the top.
  web platform We will try to continue to learn and improve ourselves even more in the future.
 
-QR
+QR <br> <br>
+
    <img src="./assets/img/red/qr23.png" with="100px" height="150px">
 
    When you Click it it will show my web
