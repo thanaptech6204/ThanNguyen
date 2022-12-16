@@ -10,7 +10,7 @@ First of all, I would like to thank you for taking the time to look at the portf
  web platform We will try to continue to learn and improve ourselves even more in the future.
 
 <ul>
- <li><i class="bi bi-chevron-right"></i> <strong>
+ <li><i class="bi bi-chevron-right"></i> <strong style="margin-left=50%">
               My product QR</strong> <span></span></li>
 </ul>
    <img src="./assets/img/red/qr23.png" with="100px" height="150px">
