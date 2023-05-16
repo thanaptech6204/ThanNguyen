@@ -2,7 +2,7 @@ ThanNguyen wants to send words to all of you who clicked on my page to see the p
  although not many and still lacking, I hope you contribute more for me to continue.
  
 
-   <img src="./assets/img/red/readme1.jpg" with="150px">
+   <img src="./assets/img/git.png" with="150px">
 
 Click the plus sign to know more about our products
 
